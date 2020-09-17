@@ -172,6 +172,9 @@ footer h3 {
         padding-left: 15px;
         padding-right: 10px;
     }
+    .sobre-mim img {
+        border-radius: 50%;
+    }
     footer {
         background-color: #00cc66;
         width:100%;
